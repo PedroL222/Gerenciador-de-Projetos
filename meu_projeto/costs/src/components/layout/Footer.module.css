@@ -1,0 +1,35 @@
+.footer{
+    background-color: #222;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+.redes{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.redes > li > svg{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.redes >li{
+    padding: 5px;
+}
+
+.redes >li:hover{
+    color: #ffbb33;
+}
+
+.copy_right{
+    margin-top: 2em;
+}
+
+.copy_right > span{
+    font-weight: bold;
+    color: #ffbb33;
+}
+
