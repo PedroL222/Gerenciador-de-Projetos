@@ -1,18 +1,8 @@
 {
   "projects": [
     {
-      "id": 1
-    },
-    {
-      "name": "Apint",
-      "budget": "1000",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "Gravibaby",
-      "budget": "10000",
+      "budget": "1300",
       "categories": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -20,28 +10,6 @@
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "projeto 3",
-      "budget": "15000",
-      "categories": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "projeto4",
-      "budget": "3000",
-      "categories": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
     }
   ],
   "categories": [
